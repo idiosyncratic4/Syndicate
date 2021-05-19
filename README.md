@@ -1,6 +1,10 @@
 # Syndicate
 
+![1](https://user-images.githubusercontent.com/46066660/118864591-c10ca480-b8fd-11eb-88ea-55fe5585680d.png)
+
 # What exactly is Syndicate?
+
+![2](https://user-images.githubusercontent.com/46066660/118864638-ccf86680-b8fd-11eb-829b-b1bc72e8d972.png)
 
 A syndicated service is a research study which is conducted and funded by a market research firm.
 
@@ -11,6 +15,9 @@ Regardless amount of time and knowledge you have about the current market.
 Syndicate allows you to invest by providing the estimated risk and major profit chances by just a few clicks.
 
 # How we do it?
+
+![3](https://user-images.githubusercontent.com/46066660/118864656-d1248400-b8fd-11eb-9a89-3b94963befc7.png)
+
 We stay updated with the market trends and progression in the industry and its tedious task.
 Syndicate services use the different techniques such as:
   - *Statistical tools* 
@@ -21,8 +28,38 @@ Syndicate services use the different techniques such as:
 Aiming to provide a holistic and meaningful view of the industry. 
 
 # What does the process looks like?
-![image](https://user-images.githubusercontent.com/46066660/118863751-ea790080-b8fc-11eb-8b69-8da2239784ba.png)
+
+![4](https://user-images.githubusercontent.com/46066660/118864672-d681ce80-b8fd-11eb-802f-74513dcdc94d.png)
+
 
 This is how syndicate is working in the backend it refines the data for the last 60 days and then generalising it into industrial data .it then calcuates the moving average ,then calculates the risks and returns and predicts the trend for the next two days.
 
+# what is 10 and 13 day moving average. 
+
+We found the moving average with respect to the advertising industry. Red line shows the daily trends
+but the blue line shows the moving average on how the stock is behaving for the last 10 and 13 days. We take 10 and 13 day moving average because according to our research 10 day moving average must be greater than 13 day moving average only then the trend is of buying .
+
+![5](https://user-images.githubusercontent.com/46066660/118864933-147ef280-b8fe-11eb-8a32-5f74c4034fb4.png)
+
+# Risk Vs Return
+
+![6](https://user-images.githubusercontent.com/46066660/118865030-2cef0d00-b8fe-11eb-967e-4d3d3ec8d826.png)
+
+The graph shows  the various industries on the basis of risk vs returns.
+Industries with the lowest risk and higher returns will be the best sector to invest in!
+We have calculated standard deviation from average returns.
+
+For example here the ophthalmic goods are the best industrial sector to invest in, it has the least risk factor and the most returns.
+So you can also be Harshad Mehta without moving out of your comfort and law.
+
+# Future Scope for Syndicate
+
+![7](https://user-images.githubusercontent.com/46066660/118865173-5019bc80-b8fe-11eb-95b9-eaf7db721d4c.png)
+
+- Making the user experience for the customer very smooth and simple.
+- Syndicate will provide the user with estimated growth output, analyse all the data study for the users, and provide a one click investment experience.  
+- Countries like India require a lot of extra requirements for trading like having a Demat account for every user.
+- "Syndicate" tries to simplify this as it will work as a wallet system with the sole trading body being "Syndicate" itself.
+
+![8](https://user-images.githubusercontent.com/46066660/118865263-63c52300-b8fe-11eb-84d3-cb9c170e0e9d.png)
 

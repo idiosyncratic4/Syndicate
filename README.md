@@ -63,3 +63,8 @@ So you can also be Harshad Mehta without moving out of your comfort and law.
 
 ![8](https://user-images.githubusercontent.com/46066660/118865263-63c52300-b8fe-11eb-84d3-cb9c170e0e9d.png)
 
+
+# Achievements
+
+- ##Runners-up at HackDTU 4.0
+- ##Presented at Imagineer Hackathon suppourting it on Power Platform.
